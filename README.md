@@ -1,5 +1,5 @@
 # 💫 About Me:
-Joven empresario que está empezando en el mundo<br>empresarial con proyectos de futuro en mente, que podéis<br>visitar en el siguiente link.<br>Me introduzco como un chico calmado, energético, proactivo<br>y con muchas ganas de seguir aprendiendo.<br>Con conocimientos sobre ingeniería de sistemas, patrones de<br>diseño de programación, POO (programación orientada a<br>Objetos), tecnologías frontend (HTML, CSS, JS, Phyton), con<br>bastantes conocimientos sobre desarrollo web con React,<br>Node.js con Express, conocimientos sobre pasarelas de pago<br>con Stripe.
+Joven empresario que está empezando en el mundo empresarial con proyectos de futuro en mente, que podéis visitar en el siguiente link. Me introduzco como un chico calmado, energético, proactivo y con muchas ganas de seguir aprendiendo.<br>Con conocimientos sobre ingeniería de sistemas, patrones de diseño de programación, POO (programación orientada a<br>Objetos), tecnologías frontend (HTML, CSS, JS, Phyton), con bastantes conocimientos sobre desarrollo web con React, Node.js con Express, conocimientos sobre pasarelas de pago con Stripe.
 
 
 ## 🌐 Socials:
