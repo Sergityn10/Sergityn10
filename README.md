@@ -1,5 +1,11 @@
 # 💫 About Me:
-Joven empresario que está empezando en el mundo empresarial con proyectos de futuro en mente, que podéis visitar en el siguiente link. Me introduzco como un chico calmado, energético, proactivo y con muchas ganas de seguir aprendiendo.<br>Con conocimientos sobre ingeniería de sistemas, patrones de diseño de programación, POO (programación orientada a<br>Objetos), tecnologías frontend (HTML, CSS, JS, Phyton), con bastantes conocimientos sobre desarrollo web con React, Node.js con Express, conocimientos sobre pasarelas de pago con Stripe.
+Joven empresario que está empezando en el mundo empresarial con proyectos de futuro en mente, que podéis visitar en el siguiente link. 
+<br>
+
+[YouConnext](https://www.youconnext.es)
+
+<br>
+Me introduzco como un chico calmado, energético, proactivo y con muchas ganas de seguir aprendiendo.<br>Con conocimientos sobre ingeniería de sistemas, patrones de diseño de programación, POO (programación orientada a<br>Objetos), tecnologías frontend (HTML, CSS, JS, Phyton), con bastantes conocimientos sobre desarrollo web con React, Node.js con Express, conocimientos sobre pasarelas de pago con Stripe.
 
 
 ## 🌐 Socials:
